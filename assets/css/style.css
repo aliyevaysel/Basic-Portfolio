@@ -1,0 +1,272 @@
+/* Codes for General */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    font-size: 18px;
+    background: url("../images/concrete_seamless.png");
+}
+
+h1,
+h2,
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    color: #4aaaa5;
+}
+
+/* Codes for Header */
+.main-header {
+    background-color: #ffffff;
+    width: 100%;
+    height: 100px;
+    border-bottom: 3px solid #cccccc;
+}
+
+#main-logo {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #4aaaa5;
+    color: #fff;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 800;
+    float: left;
+    text-align: center;
+    height: 100px;
+    width: 250px;
+    line-height: 100px;
+    margin-left: 200px;
+}
+
+#main-logo:hover {
+    color: #dark;
+}
+
+nav {
+    float: right;
+}
+
+nav a {
+    display: inline-block;
+    color: #777;
+    text-decoration: none;
+    padding-right: 20px;
+    padding-left: 20px;
+    text-align: center;
+    margin-top: 45px;
+}
+nav a:hover {
+    color: #4aaaa5
+    
+}
+
+/* .logo:focus , .logo:hover {
+    border-color: #4AAAA5;
+    box-shadow: 0 0 10px #4AAAA5;
+} */
+
+#portfolio {
+    border-left: 1px solid #cccccc;
+}
+
+#contact {
+    border-left: 1px solid #cccccc;
+    padding-right: 150px;
+}
+
+/* Codes for Section */
+.main-section {
+    width: 650px;
+    float: left;
+    background: #fff;
+    padding: 50px;
+    border: 1px solid #ddd;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+}
+
+h1 {
+    font-size: 30px;
+    margin-bottom: 40px !important;
+    border-bottom: 3px solid #cccccc;
+    padding-bottom: 30px;
+}
+
+.main-photo {
+    width: 250px;
+    height: 200px;
+    float: left;
+    margin-right: 15px;
+}
+
+.main-section p {
+    display: block;
+    line-height: 30px;
+}
+
+/* Codes for Aside */
+.main-aside {
+    float: right;
+    width: 270px;
+    border: 1px solid #ddd;
+    background: #fff;
+    margin-right: 150px;
+    margin-top: 50px;
+}
+
+.main-aside h2 {
+    font-size: 25px;
+    margin: 30px 20px;
+    text-align: center;
+    border-bottom: 2px solid #cccccc;
+    padding-bottom: 30px;
+}
+
+.connect-photo {
+    width: 60px;
+    height: 60px;
+}
+
+.connect-div {
+    margin-left: 45px;
+    margin-bottom: 35px;
+}
+
+
+/* Codes for Contact */
+.contact-section {
+    width: 650px;
+    float: left;
+    background: #fff;
+    padding: 50px;
+    border: 1px solid #ddd;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+}
+
+label,
+input [type=text],
+input[type=email],
+textarea {
+    display: block;
+    width: 100%;
+}
+
+input[type=text],
+input[type=email],
+textarea {
+  height: 30px;
+  padding-left: 10px;
+  font-size: 15px;
+  border: 1px solid #ddd;
+}
+
+input[type=text],
+input[type=email] {
+    width: 640px;
+}
+
+#main-logo:hover,
+input:hover,
+textarea:hover,
+button:hover {
+    border-color: #4aaaa5;
+    box-shadow: 0 0 10px #4aaaa5;
+}
+
+input:focus,
+textarea:focus {
+    outline: none;
+}
+
+textarea {
+    height: 150px;
+}
+
+button {
+    background: #4aaaa5;
+    padding: 10px 30px;
+    font-size: 18px;
+    color: #fff;
+    margin-top: 20px;
+    border: none;
+}
+
+.contact-form ul {
+    padding: 0;
+}
+
+.contact-form li {
+    margin-bottom: 20px;
+}
+
+button {
+    margin-top: 20px;
+}
+
+label {
+    margin-bottom: 10px;
+}
+
+/* Codes for Portfolio */
+.portfolio-section {
+    width: 650px;
+    float: left;
+    background: #fff;
+    padding: 50px;
+    border: 1px solid #ddd;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+}
+
+.div-portfolio {
+    float: left;
+    position: relative;
+}
+
+.div-portfolio img {
+    width: 275px;
+    height: 200px;
+    padding: 20px;
+}
+
+.second_class { 
+    float: right;
+}
+
+.div-portfolio h3 {
+    position: absolute;
+    top: 145px;
+    float: left;
+    width: 250px;
+    margin: 20px;
+    background: #4aaaa5;
+    color: #fff;
+    text-align: center;
+    padding: 13px;
+}
+
+/* Codes for Footer */
+footer {
+    background-color: #666666;
+    color: #cccccc;
+    text-align: center;
+    clear: both;
+    border-top: 10px solid #4aaaa5;
+    padding-top:30px;
+    padding-bottom: 30px;
+    font-size: 15px;
+}
+  
+ 
+ 
+
+
+
+
+        
