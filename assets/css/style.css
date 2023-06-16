@@ -55,14 +55,8 @@ nav a {
     margin-top: 45px;
 }
 nav a:hover {
-    color: #4aaaa5
-    
+    color: #4aaaa5  
 }
-
-/* .logo:focus , .logo:hover {
-    border-color: #4AAAA5;
-    box-shadow: 0 0 10px #4AAAA5;
-} */
 
 #portfolio {
     border-left: 1px solid #cccccc;
